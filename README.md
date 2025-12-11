@@ -13,7 +13,7 @@ I’m Naeem Noor, an IT Support Specialist and Web Developer with over 5 years o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-noor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naeem-noor&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=naeem-noor&theme=dark)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
